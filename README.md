@@ -8,5 +8,5 @@ The code for a board representation in a nine-board game is found in the NineBoa
 
 All AI code, and all 9-board Tic-Tac-Toe code is my own.
 
-Code for human vs human standard Tic-Tac-Toe provided by Prof Ferguson for CSC 242 students.
+Code for human vs human standard Tic-Tac-Toe provided by Prof Ferguson for CSC 242 students in Spring 2013.
 
